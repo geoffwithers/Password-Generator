@@ -6,3 +6,6 @@ In this assignment, we were provided with the HTML and CSS pages for a Password 
 In this password generator, the user is prompted for the length of their password, and if they'd like to include uppercase letters, lowercase letters, numbers, and/or special characters. 
 
 I used the .prompt feature to get confirmation on the selected password criteria, then a for loop to combine the selected criteria in a randomized order and to the user's desired length. 
+
+
+https://geoffwithers.github.io/Password-Generator/
